@@ -2,7 +2,7 @@ version: "3"
 
 services:
   coursematerial:
-    image: devopsdockeruh/coursepage
+    image: mpty26/devops-with-docker-deployment-pipeline
     ports:
       - 4000:80
   watchtower:
